@@ -46,4 +46,6 @@ class BinarySearchInsert {
 const bst = new BinarySearchInsert()
 
 bst.isEmpty()
-bst
+bst.insert(25)
+bst.insert(20)
+bst.insert(5)
